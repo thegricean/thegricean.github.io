@@ -11,4 +11,4 @@ redirect_from:
 
 <!-- [Click to view my CV [PDF]](http://thegricean.github.io/files/Degen_CV.pdf) -->
 
-<embed src="https://github.com/thegricean/thegricean.github.io/files/Degen_CV.pdf" width="650" height="1800" type='application/pdf'> 
+<embed src="https://github.com/thegricean/thegricean.github.io/blob/master/files/Degen_CV.pdf" width="650" height="1800" type='application/pdf'> 
