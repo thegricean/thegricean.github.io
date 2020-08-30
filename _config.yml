@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Judith Degen"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Judith Degen"
 description              : &description "Assistant Professor in Linguistics at Stanford University"
