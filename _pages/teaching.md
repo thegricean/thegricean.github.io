@@ -11,7 +11,7 @@ author_profile: true
 - [Methods in psycholinguistics](https://canvas.stanford.edu/courses/115658) (LING 245B), Spring 2017-2021. [\[additional materials\]](https://github.com/thegricean/LINGUIST245B)
 - Advanced topics in psycholinguistics (LING 247):
 	- [Experimental pragmatics](https://thegricean.github.io/xprag/), Autumn 2018.
-	- Adaptation, Autumn 2020
+	- Adaptation, Autumn 2020.
 - [Advanced pragmatics](https://docs.google.com/document/d/1Hdrf9thDu8ZT97WLPIrGuce447J7-8bb4-P-0TxxOAw/edit?usp=sharing) (LING 230P), Spring 2020.
 
 ## Summer schools and workshops
