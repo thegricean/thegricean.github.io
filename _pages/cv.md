@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- [Click to view my CV [PDF]](http://thegricean.github.io/files/Degen_CV.pdf) -->
-
 <embed src="https://thegricean.github.io/files/cv/Degen_CV.pdf" type="application/pdf"> 
