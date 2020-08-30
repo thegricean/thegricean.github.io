@@ -15,3 +15,5 @@ I'm an Assistant Professor in the [Department of Linguistics](https://linguistic
 **TODO insert research blurb**
 
 **TODO decide whether to keep blog and turn into news? or keep misc and not have news?**
+
+**TODO figure out how to get analytics to work**
