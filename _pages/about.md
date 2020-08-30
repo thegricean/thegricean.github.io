@@ -13,3 +13,5 @@ I'm an Assistant Professor in the [Department of Linguistics](https://linguistic
 **Research areas:** Experimental and computational semantics and pragmatics; Psycholinguistics; Cognitive science
 
 **TODO insert research blurb**
+
+**TODO decide whether to keep blog and turn into news? or keep misc and not have news?**
