@@ -1,6 +1,8 @@
 *~
 *.RData
 */node_modules/
+*.tex
+*.out
 *.bbl
 *.blg
 *.log
