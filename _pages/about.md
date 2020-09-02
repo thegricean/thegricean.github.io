@@ -20,7 +20,7 @@ I'm an Assistant Professor in the [Department of Linguistics](https://linguistic
 
 ### Contact
 
-Stanford University
-Margaret Jacks Hall, Room 460-114
-450 Jane Stanford Way
+Stanford University\
+Margaret Jacks Hall, Room 460-114\
+450 Jane Stanford Way\
 Stanford, CA 94305
