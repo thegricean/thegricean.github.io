@@ -4,6 +4,13 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Upcoming talks
+
+- Title TBD. *Harvard Linguistics Circle*, Harvard University, Feb 12, 2021.
+- Title TBD. *NYU Linguistics Colloquium*, NYU, May 7, 2021.
+
+## Recent talks
+
 Here are the slides from some recent talks I've given. See my CV for a full list of talks, slides shareable upon request.
 
 - [Harnessing the richness of the linguistic signal to predict pragmatic inferences](https://thegricean.github.io/files/talks/2019_harnessing-signal.pdf). *Cornell Linguistics Circle*, Cornell University, Oct 31, 2019.
