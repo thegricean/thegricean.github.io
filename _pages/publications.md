@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Representative publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
+
+### Representative publications
 
 For a full list of publications, see my [lab website](http://alpslab.stanford.edu//publications.html). 
 {% if author.googlescholar %}

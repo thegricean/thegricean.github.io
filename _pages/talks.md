@@ -1,15 +1,15 @@
 ---
-title: "Talks"
+title: ""
 permalink: /talks/
 author_profile: true
 ---
 
-## Upcoming talks
+### Upcoming talks
 
 - Title TBD. *Harvard Linguistics Circle*, Harvard University, Feb 12, 2021.
 - Title TBD. *NYU Linguistics Colloquium*, NYU, May 7, 2021.
 
-## Recent talks
+### Recent talks
 
 Here are the slides from some recent talks I've given. See my CV for a full list of talks, slides shareable upon request.
 
