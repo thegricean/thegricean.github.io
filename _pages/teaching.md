@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 ---
 
-### Teaching at Stanford
+# Teaching at Stanford
 
 - [Introduction to psycholinguistics](https://canvas.stanford.edu/courses/124942) (LING 145/LING 245A/PSYCH 140), Autumn 2016-2020.
 - [Methods in psycholinguistics](https://canvas.stanford.edu/courses/115658) (LING 245B), Spring 2017-2021. [\[additional materials\]](https://github.com/thegricean/LINGUIST245B)
@@ -13,7 +13,7 @@ author_profile: true
 	- Adaptation, Autumn 2020.
 - [Advanced pragmatics](https://docs.google.com/document/d/1Hdrf9thDu8ZT97WLPIrGuce447J7-8bb4-P-0TxxOAw/edit?usp=sharing) (LING 230P), Spring 2020.
 
-### Teaching at summer schools and workshops
+# Teaching at summer schools and workshops
 
 - [Experimental pragmatics](https://docs.google.com/document/d/1urxD-TGjSe-5xAupO-9xJ4YO1uXGMsWBmSyzQ1WHyC0/edit?usp=sharing), LSA Summer Institute, Davis, Jun 24-Jul 20, 2019.
 - [Probabilistic pragmatics](http://www.problang.org/), DGfS Summer School on Experimental Pragmatics: Theory, Methods, Interfaces, Berlin, Aug 5-16, 2019.

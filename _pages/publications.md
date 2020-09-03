@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Representative publications
+# Representative publications
 
 For a full list of publications, see my [lab website](http://alpslab.stanford.edu//publications.html). 
 {% if author.googlescholar %}
