@@ -338,10 +338,10 @@
     font-weight: bold;
     background: $primary-color;
     border-radius: $border-radius;
+    text-decoration: underline;
 
     &:hover {
       color: #fff;
-      text-decoration: underline;
     }
   }
 }
