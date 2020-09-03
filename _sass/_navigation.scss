@@ -88,12 +88,13 @@
       border-radius: 0;
 
       &:hover {
-        color: #fff; 
+        color: $link-color-hover; 
       }
 
       &.current {
         color: #fff;
         background: $primary-color;
+        text-decoration: underline;
       }
 
       &.disabled {
