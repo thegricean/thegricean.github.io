@@ -6,7 +6,9 @@ author_profile: true
 
 # Upcoming talks
 
+- Title TBD. *Computational Cognitive Science Colloquium*, TU Darmstadt, Dec 9, 2020.
 - Title TBD. *Harvard Linguistics Circle*, Harvard University, Feb 12, 2021.
+- Title TBD. *Language and Linguistics Brownbag*, Brown University, Feb 24, 2021.
 - Title TBD. *NYU Linguistics Colloquium*, NYU, May 7, 2021.
 
 # Recent talks
