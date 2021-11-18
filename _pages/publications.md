@@ -7,7 +7,7 @@ author_profile: true
 
 # Representative publications
 
-For a full list of publications, see my [lab website](http://alpslab.stanford.edu//publications.html). 
+For a full list of publications, see my [lab website](http://alpslab.stanford.edu//publications.html) or [CV](https://thegricean.github.io/cv/).  
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
