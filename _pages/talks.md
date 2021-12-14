@@ -4,6 +4,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+# Upcoming talks
+
+TBD. *University of Zürich Linguistics Colloquium*, Mar 2, 2022.
+
+TBD. *UnImplicit Workshop at NAACL*, Seattle, July 10-15, 2022.
+
 # Recent talks
 
 Here are the slides from some recent talks I've given. See my [CV](https://thegricean.github.io/cv/) for a full list of talks, slides shareable upon request.
