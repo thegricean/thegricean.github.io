@@ -6,9 +6,9 @@ author_profile: true
 
 # Upcoming talks
 
-TBD. *University of Zürich Linguistics Colloquium*, Mar 2, 2022.
+TBD. *University of Washington Linguistics Colloquium*, Apr 14, 2023.
 
-TBD. *UnImplicit Workshop at NAACL*, Seattle, July 10-15, 2022.
+TBD. *USC Linguistics Colloquium*, Apr 17, 2023.
 
 # Recent talks
 

@@ -9,7 +9,7 @@ author_profile: true
 - [Introduction to psycholinguistics](https://canvas.stanford.edu/courses/124942) (LING 145/LING 245A/PSYCH 140), Autumn 2016-2020.
 - [Methods in psycholinguistics](https://canvas.stanford.edu/courses/115658) (LING 245B), Spring 2017-2021. [\[additional materials\]](https://github.com/thegricean/LINGUIST245B)
 - Advanced topics in psycholinguistics (LING 247):
-	- [Experimental pragmatics](https://thegricean.github.io/xprag/), Autumn 2018.
+	- [Experimental pragmatics](https://thegricean.github.io/xprag-ling247/), Autumn 2018.
 	- Adaptation, Autumn 2020.
 - [Advanced pragmatics](https://docs.google.com/document/d/1Hdrf9thDu8ZT97WLPIrGuce447J7-8bb4-P-0TxxOAw/edit?usp=sharing) (LING 230P), Spring 2020.
 
