@@ -12,6 +12,6 @@ If you, like me, love tango, here is Chicho and Juana's [awesome rendition](http
 
 If you, like me, are a procrastinator, here is John Perry's [guide to structured procrastination](http://www.structuredprocrastination.com/).
 
-If you, like me, are a researcher who feels stupid all the time, here is a [useful essay](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research on the importance of stupidity in scientific research.
+If you, like me, are a researcher who feels stupid all the time, here is a [useful essay](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research) on the importance of stupidity in scientific research.
 
 If you, like me, worry about bad practices in science and science reporting, here is John Oliver's [accessible summary](https://www.youtube.com/watch?v=0Rnq1NpHdmw) of the issue.
