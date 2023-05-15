@@ -6,9 +6,8 @@ author_profile: true
 
 # Upcoming talks
 
-TBD. *University of Washington Linguistics Colloquium*, Apr 14, 2023.
+How can large language models be leveraged for pragmatic theory-building? *CogSci workshop: Large language models meet cognitive science – LLMs as tools, models, and participants*, Sydney, Jul 25.
 
-TBD. *USC Linguistics Colloquium*, Apr 17, 2023.
 
 # Recent talks
 
