@@ -4,11 +4,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-# Upcoming talks
-
-How can large language models be leveraged for pragmatic theory-building? *CogSci workshop: Large language models meet cognitive science – LLMs as tools, models, and participants*, Sydney, Jul 25.
-
-
 # Recent talks
 
 Here are the slides from some recent talks I've given. See my [CV](https://thegricean.github.io/cv/) for a full list of talks, slides shareable upon request.
