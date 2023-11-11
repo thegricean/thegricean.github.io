@@ -31,3 +31,4 @@ models/*/bdaOutput/*
 *node_modules*
 *dump.rdb
 .Rproj.user
+*resume/
