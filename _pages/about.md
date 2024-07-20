@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Assistant Professor in the [Department of Linguistics](https://linguistics.stanford.edu/) at [Stanford](https://www.stanford.edu/), where I direct the [interActive Language Processing Lab at Stanford](http://alpslab.stanford.edu/) -- or ALPS for short. 
+I'm an Associate Professor in the [Department of Linguistics](https://linguistics.stanford.edu/) at [Stanford](https://www.stanford.edu/), where I direct the [interActive Language Processing Lab at Stanford](http://alpslab.stanford.edu/) -- or ALPS for short. 
+
+**I will be on leave from September 1, 2024 to August 31, 2025. I will not take on new students or projects during that time.**
 
 **Office:** Margaret Jacks Hall, room 114 
 
