@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Associate Professor in the [Department of Linguistics](https://linguistics.stanford.edu/) at [Stanford](https://www.stanford.edu/), where I direct the [interActive Language Processing Lab at Stanford](http://alpslab.stanford.edu/) -- or ALPS for short. 
+**As of September 1, 2025, I have left academia. My Stanford e-mail address will continue to work through October 31, 2025. If you would like to learn more about why I left and what I'm up to now, see my [Substack](https://androsfarm.substack.com/p/andros-never-heard-of-it), where I periodically post updates (though farm life is busy and I no longer have much writing time).**
 
-**I will be on leave from September 1, 2024 to August 31, 2025. I will not take on new students or projects during that time.**
+I used to be an Associate Professor in the [Department of Linguistics](https://linguistics.stanford.edu/) at [Stanford](https://www.stanford.edu/), where I directed the [interActive Language Processing Lab at Stanford](http://alpslab.stanford.edu/) -- or ALPS for short. 
 
 **Office:** Margaret Jacks Hall, room 114 
 
